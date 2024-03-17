@@ -2,7 +2,7 @@
 
 * **Search Algorithms**
   * [Linear Seacrh Algorithm](#Linear-Seacrh-Algorithm)
-  * [Binary Seacrh Algorithm](Algorithms/SearchAlgorithms/BinarySearch.js)
+  * [Binary Seacrh Algorithm](#Binary-Seacrh-Algorithm)
   * [Dept First Search Algorithm](Algorithms/SearchAlgorithms/)
   * [Breadth First Seacrh Algorithm](Algorithms/SearchAlgorithms/)
  
