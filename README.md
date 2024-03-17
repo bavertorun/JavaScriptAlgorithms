@@ -1,8 +1,8 @@
 # JavaScript Algorithms
 
 * **Search Algorithms**
-  * [Linear Seacrh Algorithm](Algorithms/SearchAlgorithms/LinearSeacrhAlgorithm.js)
-  * [Binary Seacrh Algorithm](Algorithms/SearchAlgorithms/)
+  * [Linear Seacrh Algorithm](#Linear Seacrh Algorithm)
+  * [Binary Seacrh Algorithm](Algorithms/SearchAlgorithms/BinarySearch.js)
   * [Dept First Search Algorithm](Algorithms/SearchAlgorithms/)
   * [Breadth First Seacrh Algorithm](Algorithms/SearchAlgorithms/)
  
@@ -34,3 +34,25 @@
   * [Huffman Coding Compression Algorithm](Algorithms/BasicAlgorithms/)
   * [Euclid Algorithm](Algorithms/BasicAlgorithms/)
   * [Union Find Algorithm](Algorithms/BasicAlgorithms/)
+  
+  <hr>
+
+# Linear Seacrh Algorithm
+```
+const arr =  [1,23,546,234,2,56,98,34,-21,31]
+
+const LinearSeacrh = (arr,element) =>{
+    const len = arr.length
+    for (let i = 0; i < len; i++){
+        if(arr[i] === element){
+            return i
+        }        
+    }
+    return -1
+}
+
+
+console.log(LinearSeacrh(arr,98)) // 6
+console.log(LinearSeacrh(arr,221)) // -1
+
+```
