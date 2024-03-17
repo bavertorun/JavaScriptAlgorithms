@@ -37,7 +37,7 @@
   
   <hr>
 
-# Linear Seacrh Algorithm
+## Linear Seacrh Algorithm
 ```
 const arr =  [1,23,546,234,2,56,98,34,-21,31]
 
