@@ -10,7 +10,7 @@
   * [Breadth First Seacrh Algorithm]() ❌
  
 * **Sorting Algorithms**
-  * [Bubble Sort Algorithm](Bubble-Sort-Algorithm) ✅
+  * [Bubble Sort Algorithm](#Bubble-Sort-Algorithm) ✅
   * [Insertion Sort Algorithm]() ❌
   * [Selection Sort Algorithm]() ❌
   * [Heap Sort Algorithm]() ❌
