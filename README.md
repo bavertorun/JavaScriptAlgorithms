@@ -1,5 +1,5 @@
 # JavaScript Algorithms
-  
+
 * **Search Algorithms**
   * [Linear Seacrh Algorithm](Algorithms/SearchAlgorithms/LinearSeacrhAlgorithm.js)
   * [Binary Seacrh Algorithm](Algorithms/SearchAlgorithms/)
