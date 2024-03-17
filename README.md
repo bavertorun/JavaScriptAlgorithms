@@ -1,36 +1,36 @@
 # JavaScript Algorithms
 
 * **Basic Algorithms**
-  * `1.` [Huffman Coding Compression Algorithm]()
-  * `2.` [Euclid Algorithm]()
-  * `3.` [Union Find Algorithm]()
+  * [Huffman Coding Compression Algorithm](Algorithms/BasicAlgorithms/HuffmanCodingCompressionAlgorithm.js)
+  * [Euclid Algorithm]()
+  * [Union Find Algorithm]()
   
 * **Search Algorithms**
-  * `1.` [Linear Seacrh Algorithm]()
-  * `2.` [Binary Seacrh Algorithm]()
-  * `3.` [Dept First Search Algorithm]()
-  * `4.` [Breadth First Seacrh Algorithm]()
+  * [Linear Seacrh Algorithm]()
+  * [Binary Seacrh Algorithm]()
+  * [Dept First Search Algorithm]()
+  * [Breadth First Seacrh Algorithm]()
  
 * **Sorting Algorithms**
-  * `1.` [Insertion Sort Algorithm]()
-  * `2.` [Selection Sort Algorithm]()
-  * `3.` [Heap Sort Algorithm]()
-  * `4.` [Merge Sort Algorithm]()
-  * `5.` [Quick Sort Algorithm]()
-  * `6.` [Counting Sort Algorithm]()
+  * [Insertion Sort Algorithm]()
+  * [Selection Sort Algorithm]()
+  * [Heap Sort Algorithm]()
+  * [Merge Sort Algorithm]()
+  * [Quick Sort Algorithm]()
+  * [Counting Sort Algorithm]()
 
 * **Graph Algorithms**
-  * `1.` [Kruskal Algorithm]()
-  * `2.` [Dijkstra Algorithm]()
-  * `3.` [Bellman Ford Algorithm]()
-  * `4.` [Floyd Warshall Algorithm]()
-  * `5.` [Topological Sort Algorithm]()
-  * `6.` [Flood Fill Algorithm]()
-  * `7.` [Lee Algorithm]()
+  * [Kruskal Algorithm]()
+  * [Dijkstra Algorithm]()
+  * [Bellman Ford Algorithm]()
+  * [Floyd Warshall Algorithm]()
+  * [Topological Sort Algorithm]()
+  * [Flood Fill Algorithm]()
+  * [Lee Algorithm]()
 
 * **Array Algorithms**
-  * `1.` [Kadane Algorithm]()
-  * `2.` [Floyd's Cycle Detection Algorithm]()
-  * `3.` [KMP Algorithm]()
-  * `4.` [Quickselect Algorithm]()
-  * `5.` [Boyer-Moore Maority Vote Algorithm]()
+  * [Kadane Algorithm]()
+  * [Floyd's Cycle Detection Algorithm]()
+  * [KMP Algorithm]()
+  * [Quickselect Algorithm]()
+  * [Boyer-Moore Maority Vote Algorithm]()
