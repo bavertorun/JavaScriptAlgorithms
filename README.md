@@ -1,7 +1,7 @@
 # JavaScript Algorithms
 
 * **Search Algorithms**
-  * [Linear Seacrh Algorithm](#LinearSeacrhAlgorithm)
+  * [Linear Seacrh Algorithm](#Linear-Seacrh-Algorithm)
   * [Binary Seacrh Algorithm](Algorithms/SearchAlgorithms/BinarySearch.js)
   * [Dept First Search Algorithm](Algorithms/SearchAlgorithms/)
   * [Breadth First Seacrh Algorithm](Algorithms/SearchAlgorithms/)
