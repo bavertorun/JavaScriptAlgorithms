@@ -1,39 +1,42 @@
 # JavaScript Algorithms
 
+`✅ -> Added`
+`❌ -> Not added`
+
 * **Search Algorithms**
-  * [Linear Seacrh Algorithm](#Linear-Seacrh-Algorithm)
-  * [Binary Seacrh Algorithm](#Binary-Seacrh-Algorithm)
-  * [Dept First Search Algorithm](Algorithms/SearchAlgorithms/)
-  * [Breadth First Seacrh Algorithm](Algorithms/SearchAlgorithms/)
+  * [Linear Seacrh Algorithm](#Linear-Seacrh-Algorithm) ✅
+  * [Binary Seacrh Algorithm](#Binary-Seacrh-Algorithm) ✅
+  * [Dept First Search Algorithm]() ❌
+  * [Breadth First Seacrh Algorithm]() ❌
  
 * **Sorting Algorithms**
-  * [Insertion Sort Algorithm](Algorithms/SearchAlgorithms/)
-  * [Selection Sort Algorithm](Algorithms/SearchAlgorithms/)
-  * [Heap Sort Algorithm](Algorithms/SearchAlgorithms/)
-  * [Merge Sort Algorithm](Algorithms/SearchAlgorithms/)
-  * [Quick Sort Algorithm](Algorithms/SearchAlgorithms/)
-  * [Counting Sort Algorithm](Algorithms/SearchAlgorithms/)
+  * [Insertion Sort Algorithm]() ❌
+  * [Selection Sort Algorithm]() ❌
+  * [Heap Sort Algorithm]() ❌
+  * [Merge Sort Algorithm]() ❌
+  * [Quick Sort Algorithm]() ❌
+  * [Counting Sort Algorithm]() ❌
 
 * **Graph Algorithms**
-  * [Kruskal Algorithm](Algorithms/GraphAlgorithms/)
-  * [Dijkstra Algorithm](Algorithms/GraphAlgorithms/)
-  * [Bellman Ford Algorithm](Algorithms/GraphAlgorithms/)
-  * [Floyd Warshall Algorithm](Algorithms/GraphAlgorithms/)
-  * [Topological Sort Algorithm](Algorithms/GraphAlgorithms/)
-  * [Flood Fill Algorithm](Algorithms/GraphAlgorithms/)
-  * [Lee Algorithm](Algorithms/GraphAlgorithms/)
+  * [Kruskal Algorithm]() ❌
+  * [Dijkstra Algorithm]() ❌
+  * [Bellman Ford Algorithm]() ❌
+  * [Floyd Warshall Algorithm]() ❌
+  * [Topological Sort Algorithm]() ❌
+  * [Flood Fill Algorithm]() ❌
+  * [Lee Algorithm]() ❌
 
 * **Array Algorithms**
-  * [Kadane Algorithm](Algorithms/ArrayAlgorithms/)
-  * [Floyd's Cycle Detection Algorithm](Algorithms/ArrayAlgorithms/) 
-  * [KMP Algorithm](Algorithms/ArrayAlgorithms/)
-  * [Quickselect Algorithm](Algorithms/ArrayAlgorithms/)
-  * [Boyer-Moore Maority Vote Algorithm](Algorithms/ArrayAlgorithms/)
+  * [Kadane Algorithm]() ❌
+  * [Floyd's Cycle Detection Algorithm]() ❌
+  * [KMP Algorithm]() ❌
+  * [Quickselect Algorithm]() ❌
+  * [Boyer-Moore Maority Vote Algorithm]() ❌
 
 * **Basic Algorithms**
-  * [Huffman Coding Compression Algorithm](Algorithms/BasicAlgorithms/)
-  * [Euclid Algorithm](Algorithms/BasicAlgorithms/)
-  * [Union Find Algorithm](Algorithms/BasicAlgorithms/)
+  * [Huffman Coding Compression Algorithm]() ❌
+  * [Euclid Algorithm]() ❌
+  * [Union Find Algorithm]() ❌
   
   <hr>
 
